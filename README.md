@@ -1,5 +1,6 @@
- Web Scraping & Data Analysis (Python)
- Description
+ Web Scraping & Data Analysis 
+
+ Description:
 
 This project is a simple Python application that performs web scraping and data analysis.
 
